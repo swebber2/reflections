@@ -1,0 +1,5 @@
+When I initialize a repository I am able to create a git repository and start to use version control
+
+
+The staging area contains the files that I personally want to be committed on.
+
